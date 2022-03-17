@@ -1,0 +1,53 @@
+body {
+  background-color: black;
+  margin-top: 15px;
+  margin-bottom: 100px;
+}
+
+a > span {
+  color: aliceblue;
+}
+
+h1 {
+  color: rgb(121, 216, 240);
+}
+
+h1 > span {
+  color: aliceblue;
+}
+
+h2 {
+  color: aliceblue;
+}
+
+.cor1 {
+  background-color: rgba(99, 217, 233, 0.267);
+}
+
+form {
+  margin-left: 600px;
+}
+
+.carousel h1 {
+  color: black;
+}
+
+.container {
+  cursor: pointer;
+}
+.cor2 {
+  color: aliceblue;
+}
+.navbar-brand > span {
+  color: aliceblue;
+}
+.navbar-brand > span1 {
+  color: rgb(121, 216, 240);
+}
+
+.btn {
+  color: aliceblue;
+}
+.nav-item {
+  color: aliceblue;
+}
